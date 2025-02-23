@@ -16,7 +16,7 @@
 ## 📈 GitHub Stats  
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-git-code&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-git-code&layout=compact&theme=dark) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-git-code&theme=radical)
 
