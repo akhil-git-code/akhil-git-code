@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Akhil Kumar  
+🚀 **Aspiring React Native Developer** | Passionate about Mobile Applications & UI/UX  
 
-<!--
-**akhil-git-code/akhil-git-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
+- 🌱 **Currently learning:** React Native, JavaScript, Redux, Firebase  
+- 🎯 **Looking for:**  Job opportunities in mobile app development  
+- 💡 **Interested in:** UI/UX, API integration, and cross-platform apps  
+- ⚡ **Fun fact:** I love Cooking, gaming and playing volleyball!  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- 📱 **Mobile:** React Native, Expo, CLI  
+- 🌐 **Frontend:** JavaScript, HTML, CSS  
+- 🔗 **Backend Basics:** Firebase, Node.js (learning)  
+- 🛠 **Tools:** Git, VS Code, Postman, (Using Figma for Mobile UI Design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akhil-git-code)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhil-kumar-8808b41a3)
