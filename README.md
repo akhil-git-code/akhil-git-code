@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Akhil Kumar  
-🚀 **Aspiring React Native Developer** | Passionate about Mobile Applications & UI/UX  
+🚀 **Aspiring React Native Developer** | Learning & Building Mobile Apps
 
 ## 👨‍💻 About Me  
 - 🌱 **Currently learning:** React Native, JavaScript, Redux, Firebase  
-- 🎯 **Looking for:**  Job opportunities in mobile app development  
-- 💡 **Interested in:** UI/UX, API integration, and cross-platform apps  
-- ⚡ **Fun fact:** I love Cooking, gaming and playing volleyball!  
+- 🎯 **Looking for:**  Job opportunities in Mobile App Development  
+- 💡 **Interested in:** UI/UX, API Integration, and Cross-Platform Apps  
+- ⚡ **Fun fact:** I love Cooking, Gaming and Playing Volleyball!  
 
 ## 🔧 Tech Stack  
 - 📱 **Mobile:** React Native, Expo, CLI  
