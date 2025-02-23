@@ -14,7 +14,6 @@
 - 🛠 **Tools:** Git, VS Code, Postman, (Using Figma for Mobile UI Design)
 
 ## 📈 GitHub Stats  
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-git-code&theme=radical)
 
 ## 🔗 Connect with Me  
