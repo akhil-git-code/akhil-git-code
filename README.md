@@ -13,11 +13,11 @@
 - 🔗 **Backend Basics:** Firebase, Node.js (learning)  
 - 🛠 **Tools:** Git, VS Code, Postman, (Using Figma for Mobile UI Design)
 
+## 🚀 Featured Projects  
+🔹 [ShoeLand - E-commerce App](https://github.com/akhil-git-code/ShoeLand)
+
 ## 📈 GitHub Stats  
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-git-code&layout=compact&theme=gruvbox) 
-
+🔹[Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-git-code&theme=radical)
 
 ## 🔗 Connect with Me  
