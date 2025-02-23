@@ -16,6 +16,10 @@
 ## 📈 GitHub Stats  
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-git-code&layout=compact&theme=radical) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil-git-code&theme=radical)
+
 ## 🔗 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akhil-git-code)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhil-kumar-8808b41a3)
