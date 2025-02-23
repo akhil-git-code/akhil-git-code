@@ -14,7 +14,7 @@
 - 🛠 **Tools:** Git, VS Code, Postman, (Using Figma for Mobile UI Design)
 
 ## 🌟 Featured Project
-[![ShoeLand](https://your-image-url.com/shoeland.png)](https://github.com/akhil-git-code/ShoeLand)  
+[![ShoeLand](https://img.shields.io/badge/ShoeLand-E--commerce%20App-blue
 
 ## 📈 GitHub Stats  
 ![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhil-git-code&show_icons=true&theme=radical)
