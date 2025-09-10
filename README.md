@@ -1,20 +1,15 @@
 # Hi there! 👋 I'm Akhil Kumar  
-🚀 **Aspiring React Native Developer** | Learning & Building Mobile Apps
+🚀 **React Native Developer** | Learning & Building Mobile Apps
 
 ## 👨‍💻 About Me  
-- 🌱 **Currently learning:** React Native, JavaScript, Redux, Firebase  
-- 🎯 **Looking for:**  Job opportunities in Mobile App Development  
-- 💡 **Interested in:** UI/UX, API Integration, and Cross-Platform Apps  
+- 🌱 **Currently learning:** React Native, Redux, Firebase
 - ⚡ **Fun fact:** I love Cooking, Gaming and Playing Volleyball!  
 
 ## 🔧 Tech Stack  
-- 📱 **Mobile:** React Native, Expo, CLI  
-- 🌐 **Frontend:** JavaScript, HTML, CSS  
+- 📱 **Mobile:** React Native, Expo, CLI , Redux , TypeScript , Firebase , Rest API's
+- 🌐 **Frontend:** JavaScript, HTML, CSS , BootStrap
 - 🔗 **Backend Basics:** Firebase, Node.js (learning)  
-- 🛠 **Tools:** Git, VS Code, Postman, (Using Figma for Mobile UI Design)
-
-## 📈 GitHub Stats  
-![Akhil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akhil-git-code&theme=react-dark)
+- 🛠 **Tools:** Git, VS Code, Cursor Postman, (Using Figma for Mobile UI Design)
 
 ## 🔗 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akhil-git-code)  
