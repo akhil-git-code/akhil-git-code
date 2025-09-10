@@ -2,7 +2,7 @@
 🚀 **React Native Developer** | Learning & Building Mobile Apps
 
 ## 👨‍💻 About Me  
-- 🌱 **Currently learning:** React Native, Redux, Firebase
+- 🌱 **Currently Working:** React Native, Redux, Firebase
 - ⚡ **Fun fact:** I love Cooking, Gaming and Playing Volleyball!  
 
 ## 🔧 Tech Stack  
