@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me  
 - 🌱 **Currently Working:** React Native, Redux, Firebase
-- ⚡ **Fun fact:** I love Cooking, Gaming and Playing Volleyball!  
+- ⚡ **Hobbies:** I love Cooking, Gaming and Playing Volleyball!  
 
 ## 🔧 Tech Stack  
 - 📱 **Mobile:** React Native, Expo, CLI , Redux , TypeScript , Firebase , Rest API's
